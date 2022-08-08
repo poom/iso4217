@@ -3,7 +3,7 @@ package iso4217_test
 import (
 	"fmt"
 
-	"github.com/rmg/iso4217"
+	"github.com/poom/iso4217"
 )
 
 func ExampleByCode() {
